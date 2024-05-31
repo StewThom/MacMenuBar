@@ -19,7 +19,7 @@
 // SOFTWARE.
 
 // -------------------------------------
-@_functionBuilder
+@resultBuilder
 public struct MenuBuilder
 {
     // -------------------------------------

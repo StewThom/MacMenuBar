@@ -27,7 +27,7 @@ public protocol MenuBar
 }
 
 // -------------------------------------
-@_functionBuilder
+@resultBuilder
 public struct MenuBarBuilder {
     public static func buildBlock(_ menus: MacMenu...) -> [MacMenu] { menus }
 }

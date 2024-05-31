@@ -19,6 +19,7 @@
 // SOFTWARE.
 
 import Foundation
+import AppKit
 
 // -------------------------------------
 public struct MenuItemGroup: MenuElement

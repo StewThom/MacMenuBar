@@ -19,6 +19,9 @@
 // SOFTWARE.
 
 // -------------------------------------
+
+import AppKit
+
 public struct StandardMenu
 {
     public internal(set) var nsMenu: NSMacMenu
